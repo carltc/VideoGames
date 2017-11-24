@@ -1,0 +1,11 @@
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\MapTesting\MapTesting\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\MapTesting\MapTesting\obj\x86\Debug\MapTesting.Form1.resources
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\MapTesting\MapTesting\obj\x86\Debug\MapTesting.Resources.resources
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\MapTesting\MapTesting\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\MapTesting\MapTesting\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\MapTesting\MapTesting\bin\Debug\MapTesting.exe
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\MapTesting\MapTesting\bin\Debug\MapTesting.pdb
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\MapTesting\MapTesting\bin\Debug\MapTesting.xml
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\MapTesting\MapTesting\obj\x86\Debug\MapTesting.exe
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\MapTesting\MapTesting\obj\x86\Debug\MapTesting.xml
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\MapTesting\MapTesting\obj\x86\Debug\MapTesting.pdb
