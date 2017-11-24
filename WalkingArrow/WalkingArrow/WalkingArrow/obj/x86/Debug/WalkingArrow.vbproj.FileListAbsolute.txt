@@ -1,0 +1,15 @@
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\WalkingArrow\WalkingArrow\bin\Debug\WalkingArrow.exe
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\WalkingArrow\WalkingArrow\bin\Debug\WalkingArrow.pdb
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\WalkingArrow\WalkingArrow\bin\Debug\WalkingArrow.xml
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\WalkingArrow\WalkingArrow\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\WalkingArrow\WalkingArrow\obj\x86\Debug\WalkingArrow.Form1.resources
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\WalkingArrow\WalkingArrow\obj\x86\Debug\WalkingArrow.Resources.resources
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\WalkingArrow\WalkingArrow\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\WalkingArrow\WalkingArrow\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\WalkingArrow\WalkingArrow\obj\x86\Debug\WalkingArrow.exe
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\WalkingArrow\WalkingArrow\obj\x86\Debug\WalkingArrow.xml
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\WalkingArrow\WalkingArrow\obj\x86\Debug\WalkingArrow.pdb
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\WalkingArrow\WalkingArrow\obj\x86\Debug\WalkingArrow.MainMenu.resources
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\WalkingArrow\WalkingArrow\obj\x86\Debug\WalkingArrow.Manual.resources
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\WalkingArrow\WalkingArrow\obj\x86\Debug\WalkingArrow.Highscores.resources
+C:\Dokumente und Einstellungen\ctc0103\Eigene Dateien\Visual Studio 2010\Projects\WalkingArrow\WalkingArrow\bin\Debug\WalkingArrow.exe.config
