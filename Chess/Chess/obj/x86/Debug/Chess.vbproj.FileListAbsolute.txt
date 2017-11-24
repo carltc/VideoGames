@@ -1,0 +1,14 @@
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\Chess\Chess\bin\Debug\Chess.exe
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\Chess\Chess\bin\Debug\Chess.pdb
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\Chess\Chess\bin\Debug\Chess.xml
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\Chess\Chess\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\Chess\Chess\obj\x86\Debug\Chess.ChessBoard.resources
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\Chess\Chess\obj\x86\Debug\Chess.MainMenu.resources
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\Chess\Chess\obj\x86\Debug\Chess.Resources.resources
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\Chess\Chess\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\Chess\Chess\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\Chess\Chess\obj\x86\Debug\Chess.exe
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\Chess\Chess\obj\x86\Debug\Chess.xml
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\Chess\Chess\obj\x86\Debug\Chess.pdb
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\Chess\Chess\obj\x86\Debug\Chess.Dialog1.resources
+C:\Dokumente und Einstellungen\ctc0103\eigene dateien\visual studio 2010\Projects\Chess\Chess\obj\x86\Debug\Chess.options.resources
